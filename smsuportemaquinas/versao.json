@@ -1,1 +1,8 @@
-{"versionCode":0,"versionName":"0","apkUrl":"","sha256":"","notas":"","obrigatoria":false}
+{
+  "versionCode": 101,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/AdrianEstevarengo/sm-apps-releases/releases/download/smsuportemaquinas-v101/SM_Suporte_Maquinas_v2.1.apk",
+  "sha256": "eb4bd546fadde2bdd9e0d646facb574e6c4ee7abb77c5dc765275c10f1a7ebf0",
+  "notas": "Atualizador do app com chave da empresa, esteira de publicação no Git…",
+  "obrigatoria": false
+}
