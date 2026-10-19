@@ -1,1 +1,8 @@
-{"versionCode":0,"versionName":"0","apkUrl":"","sha256":"","notas":"","obrigatoria":false}
+{
+  "versionCode": 101,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/AdrianEstevarengo/sm-apps-releases/releases/download/smprestador-v101/SM_Prestador_v2.1.apk",
+  "sha256": "26719894dce369d23a11c833211fb469d129d9d157fdd8ad6054e498ab83ea58",
+  "notas": "Atualizador do app com chave da empresa, esteira de publicação no Git…",
+  "obrigatoria": false
+}
